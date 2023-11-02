@@ -13,6 +13,6 @@ code {
     monospace;
 }
 .items{
-  flex: 0 0 calc(20%-8px);
+  flex: 0 0 calc(20%-10px);
   margin: 5px; 
 }
